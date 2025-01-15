@@ -1,0 +1,1 @@
+A dynamic and visually engaging tribute to Virat Kohli, featuring his biography, key achievements, family insights, and record-breaking statistics. Built with HTML, CSS, and Font Awesome icons, this project includes smooth animations, responsive design, and a rotating image carousel to enhance the user experience.
